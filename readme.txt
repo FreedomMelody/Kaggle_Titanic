@@ -1,0 +1,1 @@
+This is my first try in kaggle. I'm a beginner. This is a long way to go and I believe I will enjoy it.
